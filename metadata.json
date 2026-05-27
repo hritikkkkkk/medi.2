@@ -1,0 +1,6 @@
+{
+  "name": "MediScript",
+  "description": "An AI-powered healthcare ecosystem for doctors and patients, with voice AI prescription writing and medicine trackers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
